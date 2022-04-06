@@ -49,7 +49,7 @@ def baseDriver(automationName=None, noReset=None):
     # caps = yaml.load(fs, Loader=yaml.FullLoader)
     caps = {
         'platformName': 'Android',
-        'deviceName': 'MI MAX 2',
+        'deviceName': 'Android Emulator',
         'platformVersion': '7.1',
         # apk包名
         'appPackage': 'com.duixivideo.app',
