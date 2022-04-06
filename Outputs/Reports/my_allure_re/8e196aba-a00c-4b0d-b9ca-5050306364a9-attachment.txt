@@ -1,0 +1,2 @@
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：启动对戏APP(setUp)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：启动对戏APP(setUp)====
