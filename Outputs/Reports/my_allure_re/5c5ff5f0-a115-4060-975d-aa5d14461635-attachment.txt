@@ -1,0 +1,15 @@
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：启动对戏APP(setUp)====
+[32mINFO    [0m hhj:my_log.py:39 _______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000021847F20E40>
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000021847F20E40>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_温馨提示_退出应用_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.127602毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.751629毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+[32mINFO    [0m hhj:my_log.py:39 .launcher.Launcher
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

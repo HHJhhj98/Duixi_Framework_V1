@@ -1,0 +1,1492 @@
+2022-04-06 15:57:41,270-INFO-my_log.py-hhj-日志信息：====所有用例的前置操作：启动对戏APP(setUp)====
+2022-04-06 15:57:41,286-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-06 15:57:41,286-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-06 15:57:41,289-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000245F3E0B3C0>
+2022-04-06 15:57:41,289-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000245F3E0B3C0>
+2022-04-06 15:57:41,289-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000245F3E0B3C0>
+2022-04-06 15:57:58,827-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:57:58,827-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:57:58,827-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:57:58,827-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:03,829-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:03,829-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:03,829-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:03,829-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:03,829-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:03,870-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.037697毫秒
+2022-04-06 15:58:03,870-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.037697毫秒
+2022-04-06 15:58:03,870-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.037697毫秒
+2022-04-06 15:58:03,870-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.037697毫秒
+2022-04-06 15:58:03,870-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.037697毫秒
+2022-04-06 15:58:03,870-INFO-my_log.py-hhj-日志信息：('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.037697毫秒
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,872-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,898-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,923-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,985-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057530毫秒
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:03,989-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:04,010-INFO-my_log.py-hhj-日志信息：在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,522-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,577-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.050593毫秒
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,580-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:05,606-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:06,013-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,017-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,054-INFO-my_log.py-hhj-日志信息：('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.033729毫秒
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,058-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,076-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,106-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,168-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:00.057536毫秒
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:11,171-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,439-INFO-my_log.py-hhj-日志信息：在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:12,481-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:22,648-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:23,630-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-22.png
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:24,600-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:26,471-INFO-my_log.py-hhj-日志信息：****正常用例——查看用户协议****
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:31,473-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:41,634-ERROR-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:42,691-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:43,639-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看用户协议
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:44,732-INFO-my_log.py-hhj-日志信息：****正常用例——查看隐私政策****
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:49,736-INFO-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:58:59,895-ERROR-my_log.py-hhj-日志信息：引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:00,879-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看隐私政策_2022-04-06 15-58-59.png
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:01,821-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_查看隐私政策
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 15:59:02,844-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

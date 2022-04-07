@@ -1,0 +1,18 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 _______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x000001C369C5C240>
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x000001C369C5C240>
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——查看用户协议****
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '《用户协议》')元素等待结束，等待时长为：0:00:00.082706毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('accessibility id', '《用户协议》')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_点击元素：('accessibility id', '《用户协议》')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().descriptionContains("服务")')可见
+[32mINFO    [0m hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素等待结束，等待时长为：0:00:01.368203毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("服务")')
+[32mINFO    [0m hhj:my_log.py:39 在引导页_查看用户协议中获取('-android uiautomator', 'new UiSelector().descriptionContains("服务")')元素_content-desc的属性值
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+[32mINFO    [0m hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.073412毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

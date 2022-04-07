@@ -1,0 +1,6 @@
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：启动对戏APP(setUp)====
+[32mINFO    [0m hhj:my_log.py:39 _______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000025A1EF5EA40>
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000025A1EF5EA40>
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

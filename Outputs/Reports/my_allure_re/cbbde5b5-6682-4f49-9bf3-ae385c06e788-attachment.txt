@@ -1,0 +1,20 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 _______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000025E2544D040>
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000025E2544D040>
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——查看隐私政策****
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策等待元素('accessibility id', '《隐私政策》')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '《隐私政策》')元素等待结束，等待时长为：0:00:00.036705毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策查找元素：('accessibility id', '《隐私政策》')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策_点击元素：('accessibility id', '《隐私政策》')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')可见
+[32mINFO    [0m hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素等待结束，等待时长为：0:00:00.064977毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')
+[32mINFO    [0m hhj:my_log.py:39 在引导页_查看隐私政策中获取('-android uiautomator', 'new UiSelector().descriptionContains("隐私")')元素_content-desc的属性值
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+[32mINFO    [0m hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.046130毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看隐私政策_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_判断隐保护政策是否存在_等待元素('accessibility id', '隐私保护政策')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:01.729053毫秒
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

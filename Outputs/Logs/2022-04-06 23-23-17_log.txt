@@ -1,0 +1,10 @@
+2022-04-06 23:23:18,653-INFO-my_log.py-hhj-日志信息：====所有用例的前置操作：启动对戏APP(setUp)====
+2022-04-06 23:23:18,654-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-06 23:23:18,654-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-06 23:23:18,658-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>
+2022-04-06 23:23:18,658-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>
+2022-04-06 23:23:18,658-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>
+2022-04-06 23:23:19,126-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>
+2022-04-06 23:23:19,126-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>
+2022-04-06 23:23:19,126-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>
+2022-04-06 23:23:19,126-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x00000190305AF3C0>

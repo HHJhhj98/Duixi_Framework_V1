@@ -30,3 +30,12 @@ class WelcomePageLocator:
 
     # 马上开始按钮
     began_btn = (MobileBy.ACCESSIBILITY_ID, '马上开始 ')
+
+    # 温馨提示
+    warm_tips = (MobileBy.ACCESSIBILITY_ID, '温馨提示')
+    # 温馨提示文案
+    warm_tips_text = (MobileBy.ANDROID_UIAUTOMATOR, 'new UiSelector().descriptionContains(\"《对戏隐私保护政策》\")')
+    # 温馨提示退出应用按钮
+    warm_tips_quit_btn = (MobileBy.ACCESSIBILITY_ID, '退出应用')
+    # 温馨提示同意并继续按钮
+    warm_tips_agree_btn = (MobileBy.ACCESSIBILITY_ID, '同意并继续')

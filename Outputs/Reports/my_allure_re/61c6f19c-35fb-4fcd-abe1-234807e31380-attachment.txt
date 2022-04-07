@@ -1,0 +1,14 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 _______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x000002544D05AE80>
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x000002544D05AE80>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_同意_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.036209毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮查找元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:01.887281毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:00.019842毫秒
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

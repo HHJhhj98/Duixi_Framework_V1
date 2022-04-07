@@ -1,0 +1,12 @@
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——查看用户协议****
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见
+[1m[31mERROR   [0m hhj:my_log.py:47 引导页_查看用户协议等待元素('accessibility id', '《用户协议》')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[32mINFO    [0m hhj:my_log.py:39 截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_查看用户协议_2022-04-06 15-58-41.png
+[32mINFO    [0m hhj:my_log.py:39 allure截取网页成功，文件路径为：引导页_查看用户协议

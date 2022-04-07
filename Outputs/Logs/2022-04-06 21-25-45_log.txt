@@ -1,0 +1,1 @@
+2022-04-06 21:25:45,755-INFO-my_log.py-hhj-日志信息：{'platformName': 'Android', 'deviceName': 'MI MAX 2', 'platformVersion': '7.1', 'appPackage': 'com.duixivideo.app', 'appActivity': 'app.dupa.festival.MainActivity', 'noReset': 'True'}

@@ -1,0 +1,253 @@
+2022-04-06 23:24:31,571-INFO-my_log.py-hhj-日志信息：====所有用例的前置操作：启动对戏APP(setUp)====
+2022-04-06 23:24:31,572-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-06 23:24:31,572-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-06 23:24:31,575-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:31,575-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:31,575-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:32,068-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:32,068-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:32,068-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:32,068-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000002A4C5F2B2C0>
+2022-04-06 23:24:49,945-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:24:49,945-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:24:49,945-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:24:49,945-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:24:49,945-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:24:52,948-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-06 23:24:52,948-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-06 23:24:52,948-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-06 23:24:52,948-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-06 23:24:52,948-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-06 23:24:52,948-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:03,258-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,019-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_退出应用_点击_2022-04-06 23-25-03.png
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:04,734-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_退出应用_点击
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:05,873-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:08,878-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:19,404-ERROR-my_log.py-hhj-日志信息：引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,139-INFO-my_log.py-hhj-日志信息：截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_温馨提示_同意并继续_点击_2022-04-06 23-25-19.png
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:20,883-INFO-my_log.py-hhj-日志信息：allure截取网页成功，文件路径为：引导页_温馨提示_同意并继续_点击
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-06 23:25:21,666-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

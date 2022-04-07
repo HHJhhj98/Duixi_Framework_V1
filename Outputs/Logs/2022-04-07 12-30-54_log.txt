@@ -1,0 +1,171 @@
+2022-04-07 12:30:56,353-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:56,355-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:56,355-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:56,367-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D69080>
+2022-04-07 12:30:56,367-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D69080>
+2022-04-07 12:30:56,367-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D69080>
+2022-04-07 12:30:57,240-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,240-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,240-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,240-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,241-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,241-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,241-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,241-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,241-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,244-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB4714A80>
+2022-04-07 12:30:57,244-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB4714A80>
+2022-04-07 12:30:57,244-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB4714A80>
+2022-04-07 12:30:57,244-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB4714A80>
+2022-04-07 12:30:57,244-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB4714A80>
+2022-04-07 12:30:57,244-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB4714A80>
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,632-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,633-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:57,637-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472A680>
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,031-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,033-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,041-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D6CB80>
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,422-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,424-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,429-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB472AC40>
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,812-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,815-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>
+2022-04-07 12:30:58,825-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000019BB3D683C0>

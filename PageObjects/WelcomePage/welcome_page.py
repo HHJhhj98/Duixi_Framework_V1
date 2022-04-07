@@ -3,6 +3,8 @@
 # @Authon :hhj
 # @Annotation:
 # @File : welcome_page.py
+from time import sleep
+
 import allure
 
 from Common.base_page import BasePage
@@ -35,6 +37,7 @@ class WelcomePage(BasePage):
         :param attr: 用户协议or隐私政策
         :return: content_des文本
         '''
+        doc = ''
         if attr == '用户协议':
             doc = '引导页_查看用户协议'
             with allure.step("step1：等待《用户协议》按钮可见"):
@@ -49,12 +52,15 @@ class WelcomePage(BasePage):
             with allure.step("step2：点击《隐私政策》按钮"):
                 self.click_element(locator=loc.privacy_policy_btn, doc=doc)
             ele_loc = loc.privacy_policy_text
-        with allure.step("step3：等待《用户协议》元素可见"):
-            self.wait_ele_Visible(locator=loc.terms_of_service_text, doc=doc)
+        with allure.step("step3：等待《" + attr + "》元素可见"):
+            self.wait_ele_Visible(locator=ele_loc, doc=doc)
         with allure.step("step4：获取《用户协议》content-desc文本"):
+            sleep(3)
             content_desc = self.get_ele_attribute(locator=ele_loc, attr='content-desc', doc=doc)
             # self.click_element(locator=loc.terms_of_service_text, doc=doc)
-        with allure.step("step5：点击返回按钮"):
+        with allure.step("step5：等待返回按钮可见"):
+            self.wait_ele_Visible(locator=loc.terms_of_service_btn, doc=doc)
+        with allure.step("step6：点击返回按钮"):
             self.click_element(locator=loc.terms_of_service_btn, doc=doc)
         return content_desc
 
@@ -95,3 +101,41 @@ class WelcomePage(BasePage):
                 self.wait_ele_Presence(locator=loc.privacy_agree_btn, doc=doc)
                 self.click_element(locator=loc.privacy_agree_btn, doc=doc)
             self.wait_ele_Visible(locator=loc.began_btn, doc=doc)
+
+    def get_warm_tips_text(self):
+        doc = '引导页_温馨提示文案'
+        with allure.step("step1：等待'温馨提示'文案元素可见"):
+            self.wait_ele_Visible(locator=loc.warm_tips_text, doc=doc)
+        with allure.step("step2：获取'温馨提示'文案"):
+            warm_tips_text = self.get_ele_attribute(locator=loc.warm_tips_text, doc=doc)
+        return warm_tips_text
+
+    def click_warm_tips_quit_btn(self):
+        doc = '引导页_温馨提示_退出应用_点击'
+        with allure.step("step1：等待'温馨提示_退出应用'元素可见"):
+            self.wait_ele_Visible(locator=loc.warm_tips_quit_btn, doc=doc)
+        with allure.step("step2：点击'温馨提示_退出应用'"):
+            self.click_element(locator=loc.warm_tips_quit_btn, doc=doc)
+        with allure.step("step3：获取当前Activity"):
+            act = self.driver.current_activity
+        return act
+
+    def click_warm_tips_agree_btn(self):
+        doc = '引导页_温馨提示_同意并继续_点击'
+        with allure.step("step1：等待'温馨提示_同意并继续'元素可见"):
+            self.wait_ele_Visible(locator=loc.warm_tips_agree_btn, doc=doc)
+        with allure.step("step2：点击'温馨提示_同意并继续'"):
+            self.click_element(locator=loc.warm_tips_agree_btn, doc=doc)
+        with allure.step("step3：获取马上开始按钮是否存在"):
+            flag = self.is_began_btn_exsist()
+        return flag
+
+    def is_began_btn_exsist(self):
+        doc = '引导页_马上开始按钮'
+        self.wait_ele_Visible(locator=loc.began_btn, doc=doc)
+        return self.is_element_exsist(locator=loc.began_btn, doc=doc)
+
+    def click_began_btn(self):
+        doc = '引导页_马上开始按钮_点击'
+        self.wait_ele_Visible(locator=loc.began_btn, doc=doc)
+        self.click_element(locator=loc.began_btn, doc=doc)

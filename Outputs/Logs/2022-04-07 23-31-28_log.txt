@@ -1,0 +1,153 @@
+2022-04-07 23:31:29,745-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-07 23:31:30,373-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher3.Launcher****
+2022-04-07 23:31:30,373-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher3.Launcher****
+2022-04-07 23:31:30,375-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 23:31:30,375-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 23:31:30,375-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-07 23:31:30,378-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 23:31:30,378-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 23:31:30,378-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 23:31:30,378-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\desired_caps.yaml_________________
+2022-04-07 23:31:30,383-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,383-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,383-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,383-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,383-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,904-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,904-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,904-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,904-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,904-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:30,904-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x0000018FC2933280>
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:45,004-INFO-my_log.py-hhj-日志信息：****引导页_温馨提示_退出应用_点击****
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,007-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,042-INFO-my_log.py-hhj-日志信息：('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.033232毫秒
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,045-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,064-INFO-my_log.py-hhj-日志信息：引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,085-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,892-INFO-my_log.py-hhj-日志信息：('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.804515毫秒
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,894-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:48,908-INFO-my_log.py-hhj-日志信息：引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,188-INFO-my_log.py-hhj-日志信息：.launcher3.Launcher
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-07 23:31:49,210-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
