@@ -39,3 +39,6 @@ class WelcomePageLocator:
     warm_tips_quit_btn = (MobileBy.ACCESSIBILITY_ID, '退出应用')
     # 温馨提示同意并继续按钮
     warm_tips_agree_btn = (MobileBy.ACCESSIBILITY_ID, '同意并继续')
+
+    # 应用是如何工作的
+    app_work_btn = (MobileBy.ACCESSIBILITY_ID, '应用是如何工作的')

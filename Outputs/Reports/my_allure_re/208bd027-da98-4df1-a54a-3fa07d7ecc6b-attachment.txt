@@ -1,0 +1,14 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000024D5D30CC40>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_同意_点击_马上开始_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.054549毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮查找元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮_点击等待元素('accessibility id', '马上开始 ')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:02.088874毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮_点击查找元素：('accessibility id', '马上开始 ')
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮_点击_点击元素：('accessibility id', '马上开始 ')
+[32mINFO    [0m hhj:my_log.py:39 首页_判断是否在首页_等待元素('accessibility id', '热门搜索')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:02.600034毫秒
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

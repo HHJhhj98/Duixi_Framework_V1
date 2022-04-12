@@ -1,0 +1,2 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000024EE9DB24C0>

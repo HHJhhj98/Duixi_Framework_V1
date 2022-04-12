@@ -1,0 +1,4 @@
+[32mINFO    [0m hhj:my_log.py:39 ****开始获取系统Launcher名称****
+[32mINFO    [0m hhj:my_log.py:39 ****系统Launcher名称为.launcher.Launcher****
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x000002395D975240>

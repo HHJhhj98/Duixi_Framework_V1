@@ -1,0 +1,29 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x000001F7DDFD6980>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_应用是如何工作的_点击_返回_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.323574毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮查找元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:01.470643毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+[32mINFO    [0m hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.051086毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:00.018356毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+[1m[31mERROR   [0m hhj:my_log.py:47 引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见失败！！！
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Common\base_page.py", line 37, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+[32mINFO    [0m hhj:my_log.py:39 截取网页成功，文件路径为：D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Outputs\ScreenShots\引导页_马上开始按钮_2022-04-10 23-18-17.png
+[32mINFO    [0m hhj:my_log.py:39 allure截取网页成功，文件路径为：引导页_马上开始按钮
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

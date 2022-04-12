@@ -38,3 +38,5 @@ TestCases/Test0Welcome/test_welcome.py::Test0Welcome::test_welcome_1_user_policy
 TestCases/Test0Welcome/test_welcome.py::Test0Welcome::test_welcome_3_click_warm_tips_quit_btn
 TestCases/Test0Welcome/test_welcome.py::Test0Welcome::test_welcome_3_click_warm_tips_quit_btn
 TestCases/Test0Welcome/test_welcome.py::Test0Welcome::test_welcome_3_click_warm_tips_quit_btn
+TestCases/Test0Welcome/test_welcome.py::Test0Welcome::test_welcome_3_click_warm_tips_quit_btn
+TestCases/Test0Welcome/test_welcome.py::Test0Welcome::test_welcome_6_show_app_work_back

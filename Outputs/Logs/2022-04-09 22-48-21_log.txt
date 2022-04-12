@@ -1,0 +1,3 @@
+2022-04-09 22:48:21,589-INFO-my_log.py-hhj-日志信息：_______________D:\JetBrains\PyCharm\PycharmProjects\Duixi_Framework_V1\Desired_Caps\desired_caps.yaml_________________
+2022-04-09 22:48:21,593-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001AB7C624B00>
+2022-04-09 22:48:21,593-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001AB7C624B00>

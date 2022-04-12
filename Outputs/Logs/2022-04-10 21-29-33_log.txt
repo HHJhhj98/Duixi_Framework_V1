@@ -1,0 +1,171 @@
+2022-04-10 21:29:34,676-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:35,103-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8302B5800>
+2022-04-10 21:29:35,103-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8302B5800>
+2022-04-10 21:29:45,838-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:45,838-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:45,838-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:46,227-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304A2F40>
+2022-04-10 21:29:46,227-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304A2F40>
+2022-04-10 21:29:46,227-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304A2F40>
+2022-04-10 21:29:46,227-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304A2F40>
+2022-04-10 21:29:54,041-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:54,041-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:54,041-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:54,041-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:54,041-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:29:54,419-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304D0380>
+2022-04-10 21:29:54,419-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304D0380>
+2022-04-10 21:29:54,419-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304D0380>
+2022-04-10 21:29:54,419-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304D0380>
+2022-04-10 21:29:54,419-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304D0380>
+2022-04-10 21:29:54,419-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E8304D0380>
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:02,214-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:03,004-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830485A40>
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,265-INFO-my_log.py-hhj-日志信息：****开始获取系统Launcher名称****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,705-INFO-my_log.py-hhj-日志信息：****系统Launcher名称为.launcher.Launcher****
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:11,706-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:12,147-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DB9B00>
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:19,951-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:20,351-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830459C40>
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,338-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:28,798-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830D49080>
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:37,714-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>
+2022-04-10 21:30:38,134-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E830DE9580>

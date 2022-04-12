@@ -33,7 +33,7 @@ def start_function_App():
     # 前置操作
     my_log.info("====每条用例的前置操作：启动对戏APP(setUpClass)====")
     global driver
-    driver = baseDriver(noReset=False)
+    driver = baseDriver(automationName='uiautomator2', noReset=False)
     wel = WelcomePage(driver)
     yield (driver, wel)  # 分割线，返回值
     # 后置操作
@@ -55,7 +55,7 @@ def start_function_App_and_launcher_name():
     my_log.info("****系统Launcher名称为{}****".format(launcher_name))
     my_log.info("====每条用例的前置操作：启动对戏APP(setUpClass)====")
     global driver
-    driver = baseDriver(noReset=False)
+    driver = baseDriver(automationName='uiautomator2',noReset=False)
     wel = WelcomePage(driver)
     yield (driver, launcher_name, wel)  # 分割线，返回值
     # 后置操作
@@ -78,6 +78,9 @@ def start_class_App():
     # 后置操作
     my_log.info("====所有用例的后置操作：关闭对戏APP，清理环境(teardown)====")
     driver.quit()
+
+
+
 
 
 # def do_welcome(driver):

@@ -1,0 +1,7 @@
+platformName: Android
+deviceName: Android Emulator
+platformVersion: '7.1'
+appPackage: com.duixivideo.app
+appActivity: app.dupa.festival.MainActivity
+noReset: 'True'
+

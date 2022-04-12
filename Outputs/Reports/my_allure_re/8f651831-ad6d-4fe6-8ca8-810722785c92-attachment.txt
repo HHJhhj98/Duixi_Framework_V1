@@ -1,0 +1,16 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000024D5D2E2380>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_温馨提示_同意并继续_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.040668毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_同意并继续_点击等待元素('accessibility id', '同意并继续')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '同意并继续')元素等待结束，等待时长为：0:00:00.835268毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_同意并继续_点击查找元素：('accessibility id', '同意并继续')
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_同意并继续_点击_点击元素：('accessibility id', '同意并继续')
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:01.916549毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:00.017856毫秒
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

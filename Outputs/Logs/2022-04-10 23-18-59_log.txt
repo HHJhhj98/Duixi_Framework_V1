@@ -1,0 +1,820 @@
+2022-04-10 23:18:59,993-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:00,318-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB43D240>
+2022-04-10 23:19:00,318-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB43D240>
+2022-04-10 23:19:14,153-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击****
+2022-04-10 23:19:14,153-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击****
+2022-04-10 23:19:14,153-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击****
+2022-04-10 23:19:16,155-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:16,155-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:16,155-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:16,155-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:16,192-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.036207毫秒
+2022-04-10 23:19:16,192-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.036207毫秒
+2022-04-10 23:19:16,192-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.036207毫秒
+2022-04-10 23:19:16,192-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.036207毫秒
+2022-04-10 23:19:16,192-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.036207毫秒
+2022-04-10 23:19:16,194-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:16,194-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:16,194-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:16,194-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:16,194-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:16,194-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,213-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:16,235-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,028-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:02.790007毫秒
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,030-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,054-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,088-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,162-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.071423毫秒
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,196-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,199-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.031247毫秒
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,203-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,227-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:19,355-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,290-INFO-my_log.py-hhj-日志信息：====每条用例的前置操作：启动对戏APP(setUpClass)====
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:21,683-INFO-my_log.py-hhj-日志信息：<built-in method values of dict object at 0x000001E7EB445C40>
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:35,204-INFO-my_log.py-hhj-日志信息：****引导页_应用是如何工作的_点击_返回_点击****
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,210-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,275-INFO-my_log.py-hhj-日志信息：('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.061013毫秒
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,278-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮查找元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,297-INFO-my_log.py-hhj-日志信息：引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:37,320-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,564-INFO-my_log.py-hhj-日志信息：('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:07.240897毫秒
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,568-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,593-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,630-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,682-INFO-my_log.py-hhj-日志信息：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.048608毫秒
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,715-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,719-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.027768毫秒
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,723-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,751-INFO-my_log.py-hhj-日志信息：引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,786-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,822-INFO-my_log.py-hhj-日志信息：('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.033230毫秒
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,846-INFO-my_log.py-hhj-日志信息：引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,850-INFO-my_log.py-hhj-日志信息：等待结束，等待时长为：0:00:00.017361毫秒
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====
+2022-04-10 23:19:44,856-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

@@ -1,0 +1,22 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000024D5D333D80>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_应用是如何工作的_点击_返回_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮等待元素('accessibility id', '同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '同意')元素等待结束，等待时长为：0:00:00.026783毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮查找元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击同意按钮_点击元素：('accessibility id', '同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('accessibility id', '应用是如何工作的')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '应用是如何工作的')元素等待结束，等待时长为：0:00:01.961187毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('accessibility id', '应用是如何工作的')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_点击元素：('accessibility id', '应用是如何工作的')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')可见
+[32mINFO    [0m hhj:my_log.py:39 ('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')元素等待结束，等待时长为：0:00:00.054068毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_等待元素('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:00.018846毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议查找元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_查看用户协议_点击元素：('-android uiautomator', 'new UiSelector().className("android.widget.ImageView")')
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮等待元素('accessibility id', '马上开始 ')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '马上开始 ')元素等待结束，等待时长为：0:00:00.039681毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_马上开始按钮_等待元素('accessibility id', '马上开始 ')存在
+[32mINFO    [0m hhj:my_log.py:39 等待结束，等待时长为：0:00:00.020338毫秒
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

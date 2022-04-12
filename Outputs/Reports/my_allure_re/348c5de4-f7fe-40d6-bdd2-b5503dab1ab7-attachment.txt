@@ -1,0 +1,15 @@
+[32mINFO    [0m hhj:my_log.py:39 ****开始获取系统Launcher名称****
+[32mINFO    [0m hhj:my_log.py:39 ****系统Launcher名称为.launcher3.Launcher****
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：启动对戏APP(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 <built-in method values of dict object at 0x0000024D5D2FAC80>
+[32mINFO    [0m hhj:my_log.py:39 ****引导页_温馨提示_退出应用_点击****
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮等待元素('accessibility id', '不同意')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '不同意')元素等待结束，等待时长为：0:00:00.047120毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮查找元素：('accessibility id', '不同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_点击不同意按钮_点击元素：('accessibility id', '不同意')
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_退出应用_点击等待元素('accessibility id', '退出应用')可见
+[32mINFO    [0m hhj:my_log.py:39 ('accessibility id', '退出应用')元素等待结束，等待时长为：0:00:00.876162毫秒
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_退出应用_点击查找元素：('accessibility id', '退出应用')
+[32mINFO    [0m hhj:my_log.py:39 引导页_温馨提示_退出应用_点击_点击元素：('accessibility id', '退出应用')
+[32mINFO    [0m hhj:my_log.py:39 .launcher3.Launcher
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭对戏APP，清理环境(teardownClass)====

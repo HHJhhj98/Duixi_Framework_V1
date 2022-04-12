@@ -34,7 +34,10 @@ test_log_path = os.path.join(project_path, 'Outputs', 'Logs', now + '_log.txt')
 sceen_shots_path = os.path.join(project_path, 'Outputs', 'ScreenShots')
 
 # yaml文件路径
-yaml_path = os.path.join(project_path, 'Common', 'desired_caps.yaml')
+yaml_path = os.path.join(project_path, 'Desired_Caps', 'Android_Emulator_desired_caps.yaml')
+
+# 小米yaml文件路径
+xiaomi_yaml_path = os.path.join(project_path, 'Desired_Caps', 'desired_caps.yaml')
 
 # print(project_path)
 # print(test_path)
